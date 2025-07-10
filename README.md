@@ -35,9 +35,11 @@ Or run the cleaning script:
 
 ## 📌 Sample Output
 
-- Median price: $X
-- Most expensive neighborhoods: Neighborhood A, B, C
-- Model RMSE: $129.00
+Here are some interactive visualizations from the analysis:
+
+- 📊 [Price Distribution Histogram](output/price_distribution.html)
+- 🏘️ Top 10 Expensive Neighborhoods
+- 🛏️ Price by Room Type
 
 
 ## 📁 Folder Structure
