@@ -28,12 +28,16 @@ Or run the cleaning script:
 
 ## 📈 Analysis Goals
 
-- Explore how price varies by neighborhood and room type
-- Identify outliers and data quality issues
-- Visualize price distribution
+- Visualized price distributions and patterns
+- Compared room type and neighborhood prices
+- Built a basic linear regression model to predict price
+
 
 ## 📌 Sample Output
 
-*Coming soon: charts and plots*
+- Median price: $X
+- Most expensive neighborhoods: Neighborhood A, B, C
+- Model RMSE: $129.00
+
 
 ## 📁 Folder Structure
